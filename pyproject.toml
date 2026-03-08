@@ -11,7 +11,7 @@ packages = [{include = "stationbench"}]
 python = ">=3.11,<3.13"
 xarray = {extras = ["io"], version = "^2025.03.0"}
 pandas = "^2.2.0"
-dask = {extras = ["distributed"], version = "^2024.1.1"}
+dask = {extras = ["distributed"], version = "^2026.1.2"}
 plotly = "^5.18.0"
 zarr = "^3.0.4"
 gcsfs = "^2024.2.0"
